@@ -1,0 +1,5 @@
+cd desktop 
+git clone https://github.com/thelinuxchoice/shellphish.git
+cd shellphish/
+Is
+chmod 744 shellphish.sh
